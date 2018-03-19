@@ -179,6 +179,10 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Dialog1Dlg.h" />
+    <ClInclude Include="Dialog2Dlg.h" />
+    <ClInclude Include="Dialog3Dlg.h" />
+    <ClInclude Include="Dialog4Dlg.h" />
     <ClInclude Include="Report_Dlg1.h" />
     <ClInclude Include="Report_Dlg1Dlg.h" />
     <ClInclude Include="Resource.h" />
@@ -186,6 +190,10 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Dialog1Dlg.cpp" />
+    <ClCompile Include="Dialog2Dlg.cpp" />
+    <ClCompile Include="Dialog3Dlg.cpp" />
+    <ClCompile Include="Dialog4Dlg.cpp" />
     <ClCompile Include="Report_Dlg1.cpp" />
     <ClCompile Include="Report_Dlg1Dlg.cpp" />
     <ClCompile Include="stdafx.cpp">
